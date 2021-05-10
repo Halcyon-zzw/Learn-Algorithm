@@ -1,6 +1,6 @@
 package offer.offer_68;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  *

@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_32;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  * 从上到下打印二叉树

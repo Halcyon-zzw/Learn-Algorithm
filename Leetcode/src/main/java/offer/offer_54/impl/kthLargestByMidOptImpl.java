@@ -1,6 +1,6 @@
 package offer.offer_54.impl;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_54.KthLargest;
 
 /**

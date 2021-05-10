@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_28;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  * 对称的二叉树

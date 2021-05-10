@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_35;
 
-import offer.mode.Node;
+import mode.Node;
 
 /**
  * 复杂链表的复制

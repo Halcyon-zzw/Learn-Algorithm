@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_34;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 import java.util.List;
 

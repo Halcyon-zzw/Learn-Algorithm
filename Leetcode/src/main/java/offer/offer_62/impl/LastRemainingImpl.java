@@ -1,12 +1,8 @@
 package offer.offer_62.impl;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 import offer.offer_62.LastRemaining;
 import utils.TestUtils;
-
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
 
 /**
  * 模拟删除

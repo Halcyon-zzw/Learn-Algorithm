@@ -8,7 +8,7 @@ package offer.offer_65;
  *  0        1        1         0
  *  1        0        1         0
  *  1        1        0         1
- *                   a ^ b      a & b
+ *                   a ^ b     a & b
  * @Author: zhuzw
  * @Date: 2021-04-27 16:34
  * @Version: 1.0

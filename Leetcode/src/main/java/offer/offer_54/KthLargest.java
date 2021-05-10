@@ -1,6 +1,6 @@
 package offer.offer_54;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  * 给定一棵二叉搜索树，请找出其中第k大的节点。

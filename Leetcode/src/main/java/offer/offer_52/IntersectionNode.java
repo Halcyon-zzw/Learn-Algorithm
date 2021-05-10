@@ -1,6 +1,6 @@
 package offer.offer_52;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 
 /**
  * 如果两个链表没有交点，返回 null.

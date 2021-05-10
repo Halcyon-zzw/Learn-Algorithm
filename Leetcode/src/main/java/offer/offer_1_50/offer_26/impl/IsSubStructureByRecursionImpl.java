@@ -1,7 +1,7 @@
 package offer.offer_1_50.offer_26.impl;
 import offer.offer_1_50.offer_26.IsSubStructure;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 
 /**

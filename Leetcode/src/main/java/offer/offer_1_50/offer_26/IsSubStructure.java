@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_26;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  * B是否是A的子树

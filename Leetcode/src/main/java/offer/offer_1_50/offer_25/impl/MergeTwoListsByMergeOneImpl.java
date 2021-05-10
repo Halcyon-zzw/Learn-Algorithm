@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_25.impl;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 import offer.offer_1_50.offer_25.MergeTwoLists;
 
 /**

@@ -1,6 +1,6 @@
 package offer.offer_68.impl.normal_tree;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_68.LowestCommonAncestor;
 import utils.TestUtils;
 

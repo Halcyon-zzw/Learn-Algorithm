@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_35.impl;
 
-import offer.mode.Node;
+import mode.Node;
 import offer.offer_1_50.offer_35.CopyRandomList;
 
 import java.util.HashMap;

@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_24;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 
 /**
  * TODO

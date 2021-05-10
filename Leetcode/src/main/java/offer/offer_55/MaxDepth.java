@@ -1,6 +1,6 @@
 package offer.offer_55;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 
 /**
  * 输入一棵二叉树的根节点，求该树的深度。

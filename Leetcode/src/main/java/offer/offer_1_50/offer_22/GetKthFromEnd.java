@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_22;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 
 import java.util.Stack;
 

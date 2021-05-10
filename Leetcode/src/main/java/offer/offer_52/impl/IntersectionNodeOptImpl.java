@@ -1,6 +1,6 @@
 package offer.offer_52.impl;
 
-import offer.mode.ListNode;
+import mode.ListNode;
 import offer.offer_52.IntersectionNode;
 
 /**

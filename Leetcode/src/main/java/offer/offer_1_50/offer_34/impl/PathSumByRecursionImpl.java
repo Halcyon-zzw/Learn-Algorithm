@@ -1,6 +1,6 @@
 package offer.offer_1_50.offer_34.impl;
 
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_1_50.offer_34.PathSum;
 
 import java.util.ArrayList;

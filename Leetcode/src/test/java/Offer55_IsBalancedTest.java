@@ -1,4 +1,4 @@
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_55.impl.IsBalancedByRecursionImpl;
 import org.junit.Before;
 import org.junit.Test;

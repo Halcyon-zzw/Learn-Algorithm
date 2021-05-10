@@ -1,13 +1,11 @@
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_54.KthLargest;
 import offer.offer_54.impl.kthLargestByMidOptImpl;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 /**
  * TODO
