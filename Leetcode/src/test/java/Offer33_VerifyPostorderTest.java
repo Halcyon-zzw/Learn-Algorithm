@@ -1,4 +1,4 @@
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_1_50.offer_33.VerifyPostorder;
 import offer.offer_1_50.offer_33.impl.VerifyPostorderByRecursionImpl;
 import org.junit.Before;

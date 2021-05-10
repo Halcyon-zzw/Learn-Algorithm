@@ -67,6 +67,9 @@ public class CollectSort {
         }
     }
 
+    //快速排序
+
+
 
     public static void main(String[] args) {
         int[] arr = {3, 2 ,1 ,4, 5};

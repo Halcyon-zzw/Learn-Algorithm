@@ -1,6 +1,9 @@
 import org.junit.Test;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * TODO
@@ -13,6 +16,10 @@ public class MainTest {
 
     @Test
     public void test() {
+        Map<Integer, Integer> map = new HashMap();
+        map.put(2, 2);
+        map.put(3, 3);
+        map.put(1, 1);
 
         int i = nthUglyNumber(1000000000, 2,217983653 , 336916467);
         System.out.println(i);

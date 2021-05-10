@@ -1,4 +1,4 @@
-import offer.mode.TreeNode;
+import mode.TreeNode;
 import offer.offer_1_50.offer_32.LevelOrderII;
 import offer.offer_1_50.offer_32.impl.*;
 import org.junit.Before;
