@@ -1,6 +1,6 @@
-package normal_633.impl;
+package normal.normal_633.impl;
 
-import normal_633.JudgeSquareSum;
+import normal.normal_633.JudgeSquareSum;
 
 /**
  * 双指针

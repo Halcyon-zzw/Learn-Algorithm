@@ -1,6 +1,4 @@
-package offer.mode;
-
-import java.util.LinkedList;
+package mode;
 
 /**
  * TODO

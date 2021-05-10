@@ -1,4 +1,4 @@
-package offer.mode;
+package mode;
 
 import java.util.LinkedList;
 

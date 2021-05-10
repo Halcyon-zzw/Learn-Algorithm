@@ -1,4 +1,4 @@
-package offer.mode;
+package mode;
 
 /**
  * TODO
