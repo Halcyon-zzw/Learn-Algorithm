@@ -28,4 +28,5 @@ public class LowestCommonAncestorImpl implements LowestCommonAncestor {
         }
         return commonNode;
     }
+
 }

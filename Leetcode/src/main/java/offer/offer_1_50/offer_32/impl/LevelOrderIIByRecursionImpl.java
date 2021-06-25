@@ -31,7 +31,7 @@ public class LevelOrderIIByRecursionImpl implements LevelOrderII {
             return;
         }
         int val = node.val;
-        if(results.size()==level){
+        if(results.size() == level){
             results.add(new ArrayList<>());
         }
         results.get(level).add(val);

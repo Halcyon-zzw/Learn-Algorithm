@@ -37,16 +37,28 @@ public class CopyRandomListBySplitImpl implements CopyRandomList {
         }
         p = head;
         Node result = head.next;
-        Node q;
-        //拆分
+//        Node q;
+//        //拆分
+//        while (p != null) {
+//            q = p.next;
+//            p.next = p.next.next;
+//            if (q.next != null) {
+//                q.next = q.next.next;
+//            }
+//            p = p.next;
+//        }
+
+        Node q = head.next;
         while (p != null) {
-            q = p.next;
-            p.next = p.next.next;
-            if (q.next != null) {
-                q.next = q.next.next;
+            p.next = q.next;
+            p = q.next;
+            if (p == null) {
+                break;
             }
-            p = p.next;
+            q.next = p.next;
+            q = p.next;
         }
+
         return result;
     }
 }

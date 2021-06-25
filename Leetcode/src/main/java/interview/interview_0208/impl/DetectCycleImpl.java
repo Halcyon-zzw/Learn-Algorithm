@@ -32,26 +32,22 @@ public class DetectCycleImpl implements DetectCycle {
     public ListNode detectCycle(ListNode head) {
         //是否存在环
         ListNode slow = head, fast = head;
-        while (slow != null && fast != null) {
+        while (fast != null) {
             slow = slow.next;
-            fast = fast.next;
-            if (fast == null) {
+            if (fast.next == null) {
                 return null;
+            }else {
+                fast = fast.next.next;
             }
-            fast = fast.next;
             if (slow == fast) {
-                break;
+                //存在环, 找环的位置
+                slow = head;
+                while (slow != fast) {
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
             }
-        }
-        if (slow == fast) {
-            //存在环
-            //找环的位置
-            slow = head;
-            while (slow != fast) {
-                slow = slow.next;
-                fast = fast.next;
-            }
-            return slow;
         }
         return null;
     }

@@ -1,4 +1,6 @@
 import int_type.SortInterface;
+import int_type.impl.HillSort;
+import int_type.impl.InsertSort;
 import int_type.impl.QuickSort;
 import org.junit.Before;
 import org.junit.Test;
@@ -32,7 +34,7 @@ public class SortTest {
             System.out.print(i);
             System.out.print("\t");
         }
-        SortInterface sortInterface = new QuickSort();
+        SortInterface sortInterface = new HillSort();
         sortInterface.apply(arr);
         System.out.println();
         for (int i : arr) {

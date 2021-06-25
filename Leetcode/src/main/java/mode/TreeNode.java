@@ -18,7 +18,7 @@ public class TreeNode {
         val = x;
     }
 
-    public static TreeNode create(int[] arr) {
+    public static TreeNode create(int... arr) {
         if (arr == null || arr.length == 0) {
             return null;
         }

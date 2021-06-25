@@ -1,5 +1,7 @@
 递归  Recursion
 暴力  Violence
+广度优先遍历：bfs
+深度优先遍历：dfs
 offer:
     03: 数组中重复的数字 
     04: 二维数组中的查找

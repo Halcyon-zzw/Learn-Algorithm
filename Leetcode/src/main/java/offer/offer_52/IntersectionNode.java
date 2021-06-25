@@ -3,6 +3,8 @@ package offer.offer_52;
 import mode.ListNode;
 
 /**
+ * 链表交点
+ *
  * 如果两个链表没有交点，返回 null.
  * 在返回结果后，两个链表仍须保持原有的结构。
  * 可假定整个链表结构中没有循环。
