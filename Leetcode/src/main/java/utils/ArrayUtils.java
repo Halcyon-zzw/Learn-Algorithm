@@ -16,6 +16,9 @@ import java.util.stream.Collectors;
 public class ArrayUtils {
 
     public static String toString(Collection collection) {
+        if (collection == null || collection.isEmpty()) {
+            return "{}";
+        }
         StringBuffer sb = new StringBuffer("{");
         for (Object o : collection) {
             sb.append(o + ", ");
@@ -48,7 +51,7 @@ public class ArrayUtils {
         StringBuffer sb = new StringBuffer("{");
         for (Object obj : arr) {
             if (obj instanceof int[]) {
-                sb.append(toString((int[]) obj) + ", ");
+                sb.append(toString(obj) + ", ");
             }else {
                 sb.append(obj + ", ");
             }

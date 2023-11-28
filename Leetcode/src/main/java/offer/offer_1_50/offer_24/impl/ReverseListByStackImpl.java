@@ -17,7 +17,7 @@ public class ReverseListByStackImpl implements ReverseListInterface {
     @Override
     public ListNode reverseList(ListNode head) {
         ListNode curNode = head;
-        Stack<Integer> stack = new Stack();
+        Stack<Integer> stack = new Stack<>();
         while (curNode != null) {
             stack.push(curNode.val);
             curNode = curNode.next;
