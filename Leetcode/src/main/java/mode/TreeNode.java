@@ -18,6 +18,11 @@ public class TreeNode {
         val = x;
     }
 
+    /**
+     * 层序赋值生成二叉树，值为-1时表示节点为空
+     * @param arr
+     * @return
+     */
     public static TreeNode create(int... arr) {
         if (arr == null || arr.length == 0) {
             return null;
@@ -28,6 +33,7 @@ public class TreeNode {
         int index = 1;
         while (!linkedList.isEmpty() && index < arr.length) {
             final TreeNode treeNode = linkedList.removeLast();
+            //赋值左右子节点
             int curVal = arr[index++];
             if (curVal != -1) {
                 treeNode.left = new TreeNode(curVal);
