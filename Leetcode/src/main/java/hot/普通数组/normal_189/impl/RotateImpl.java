@@ -1,6 +1,6 @@
-package hot.normal_189.impl;
+package hot.普通数组.normal_189.impl;
 
-import hot.normal_189.Rotate;
+import hot.普通数组.normal_189.Rotate;
 
 import java.util.HashMap;
 import java.util.Map;

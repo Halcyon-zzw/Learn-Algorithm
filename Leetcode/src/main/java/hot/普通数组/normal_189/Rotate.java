@@ -1,4 +1,4 @@
-package hot.normal_189;
+package hot.普通数组.normal_189;
 
 /**
  * 189. 轮转数组

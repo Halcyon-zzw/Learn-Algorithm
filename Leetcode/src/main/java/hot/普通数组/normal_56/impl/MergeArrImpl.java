@@ -1,6 +1,6 @@
-package hot.normal_56.impl;
+package hot.普通数组.normal_56.impl;
 
-import hot.normal_56.MergeArr;
+import hot.普通数组.normal_56.MergeArr;
 
 import java.util.ArrayList;
 import java.util.Arrays;

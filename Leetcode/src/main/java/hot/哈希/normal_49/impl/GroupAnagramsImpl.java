@@ -1,6 +1,6 @@
-package hot.normal_49.impl;
+package hot.哈希.normal_49.impl;
 
-import hot.normal_49.GroupAnagrams;
+import hot.哈希.normal_49.GroupAnagrams;
 
 import java.util.*;
 import java.util.stream.Collectors;
