@@ -1,6 +1,5 @@
 package hot.二叉树;
 
-import com.sun.source.tree.Tree;
 import mode.TreeNode;
 
 import java.util.Deque;
