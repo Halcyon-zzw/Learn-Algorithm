@@ -2,6 +2,8 @@ package hot.二叉树;
 
 import mode.TreeNode;
 
+import java.util.Stack;
+
 /**
  * 230. 二叉搜索树中第K小的元素
  * 中等
@@ -14,6 +16,12 @@ import mode.TreeNode;
 public class Hot_230_二叉搜索树中第K小的元素 {
     int cur = 0;
 
+    /**
+     * 中序遍历
+     * @param root
+     * @param k
+     * @return
+     */
     public int kthSmallest(TreeNode root, int k) {
         return dfs(root, k);
     }
@@ -42,5 +50,22 @@ public class Hot_230_二叉搜索树中第K小的元素 {
             }
         }
         return 0;
+    }
+
+    public int kthSmallest2(TreeNode root, int k) {
+        Stack<TreeNode> stack = new Stack<>();
+        while (root != null || !stack.isEmpty()) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            k--;
+            if (k == 0) {
+                break;
+            }
+            root = root.right;
+        }
+        return root.val;
     }
 }
