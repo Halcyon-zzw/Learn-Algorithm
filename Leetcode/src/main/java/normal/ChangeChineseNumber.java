@@ -1,4 +1,4 @@
-package other;
+package normal;
 
 /**
  * 数字转中文表示
