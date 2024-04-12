@@ -1,7 +1,5 @@
 package hot.二分查找;
 
-import hot.链表.Hot_21_合并两个有序链表;
-import mode.ListNode;
 
 /**
  * 74. 搜索二维矩阵
@@ -73,7 +71,7 @@ public class Hot_74_搜索二维矩阵 {
         return false;
     }
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         int[][] matrix = {
                 {1,3,5,7},
                 {10,11,16,20},
