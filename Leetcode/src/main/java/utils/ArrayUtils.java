@@ -1,5 +1,6 @@
 package utils;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
@@ -57,6 +58,18 @@ public class ArrayUtils {
             }
         }
         return sb.substring(0, sb.length() - 2) + "}";
+    }
+
+    public static List<List<Integer>> toList(int[][] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        for (int[] innerArray : nums) {
+            List<Integer> innerList = new ArrayList<>();
+            for (int i : innerArray) {
+                innerList.add(i);
+            }
+            list.add(innerList);
+        }
+        return list;
     }
 
     public static void main(String[] args) {
