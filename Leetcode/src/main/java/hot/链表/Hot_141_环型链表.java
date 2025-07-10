@@ -23,6 +23,6 @@ public class Hot_141_环型链表 {
             s = s.next;
             f = f.next.next;
         }
-        return false;
+        return true;
     }
 }

@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_40.GetLeastNumbers;
-import offer.offer_1_50.offer_40.GetLeastNumbersByPriorityQueueImpl;
+import old.offer.offer_1_50.offer_40.GetLeastNumbers;
+import old.offer.offer_1_50.offer_40.GetLeastNumbersByPriorityQueueImpl;
 import org.junit.Test;
 
 /**

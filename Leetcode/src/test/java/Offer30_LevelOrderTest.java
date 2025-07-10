@@ -1,6 +1,7 @@
 import mode.TreeNode;
-import offer.offer_1_50.offer_32.LevelOrderII;
-import offer.offer_1_50.offer_32.impl.*;
+import old.offer.offer_1_50.offer_32.LevelOrderII;
+import old.offer.offer_1_50.offer_32.impl.LevelOrderIIByRecursionImpl;
+import old.offer.offer_1_50.offer_32.impl.LevelOrderIIIByQueueZImpl;
 import org.junit.Before;
 import org.junit.Test;
 

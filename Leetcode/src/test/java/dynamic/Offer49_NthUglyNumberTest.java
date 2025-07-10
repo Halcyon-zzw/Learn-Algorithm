@@ -1,7 +1,7 @@
 package dynamic;
 
-import offer.dynamic.offer_49.NthUglyNumber;
-import offer.dynamic.offer_49.impl.NthUglyNumberByDynamicImpl;
+import old.offer.dynamic.offer_49.NthUglyNumber;
+import old.offer.dynamic.offer_49.impl.NthUglyNumberByDynamicImpl;
 import org.junit.Before;
 import org.junit.Test;
 import utils.TestUtils;

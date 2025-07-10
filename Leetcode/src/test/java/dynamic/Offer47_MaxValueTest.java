@@ -1,7 +1,7 @@
 package dynamic;
 
-import offer.dynamic.offer_47.MaxValue;
-import offer.dynamic.offer_47.MaxValueDynamicImpl;
+import old.offer.dynamic.offer_47.MaxValue;
+import old.offer.dynamic.offer_47.MaxValueDynamicImpl;
 import org.junit.Before;
 import org.junit.Test;
 

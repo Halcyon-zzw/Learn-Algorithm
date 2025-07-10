@@ -1,8 +1,7 @@
 package dynamic;
 
-import offer.dynamic.offer_48.impl.LengthOfLongestSubstring;
-import offer.dynamic.offer_48.impl.LengthOfLongestSubstringByQueueImpl;
-import offer.offer_1_50.offer_46.TranslateNum;
+import old.offer.dynamic.offer_48.impl.LengthOfLongestSubstring;
+import old.offer.dynamic.offer_48.impl.LengthOfLongestSubstringByQueueImpl;
 import org.junit.Before;
 import org.junit.Test;
 import utils.TestUtils;

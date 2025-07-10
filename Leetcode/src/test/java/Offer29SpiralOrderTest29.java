@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_29.SpiralOrder;
-import offer.offer_1_50.offer_29.impl.SpiralOrderIteration;
+import old.offer.offer_1_50.offer_29.SpiralOrder;
+import old.offer.offer_1_50.offer_29.impl.SpiralOrderIteration;
 import org.junit.Test;
 import utils.ArrayUtils;
 

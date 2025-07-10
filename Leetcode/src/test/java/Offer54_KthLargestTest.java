@@ -1,6 +1,6 @@
 import mode.TreeNode;
-import offer.offer_54.KthLargest;
-import offer.offer_54.impl.kthLargestByMidOptImpl;
+import old.offer.offer_54.KthLargest;
+import old.offer.offer_54.impl.kthLargestByMidOptImpl;
 import org.junit.Before;
 import org.junit.Test;
 

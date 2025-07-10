@@ -1,7 +1,6 @@
 package dynamic;
 
-import offer.dynamic.offer_51_TODO.ReversePairs;
-import offer.dynamic.offer_51_TODO.impl.ReversePairsDynamicImpl;
+import old.offer.dynamic.offer_51_TODO.impl.ReversePairsDynamicImpl;
 import org.junit.Before;
 import org.junit.Test;
 import utils.TestUtils;

@@ -1,6 +1,6 @@
 import mode.TreeNode;
-import offer.offer_1_50.offer_34.PathSum;
-import offer.offer_1_50.offer_34.impl.PathSumByRecursionImpl;
+import old.offer.offer_1_50.offer_34.PathSum;
+import old.offer.offer_1_50.offer_34.impl.PathSumByRecursionImpl;
 import org.junit.Before;
 import org.junit.Test;
 

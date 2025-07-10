@@ -1,6 +1,6 @@
 import mode.Node;
-import offer.offer_1_50.offer_35.CopyRandomList;
-import offer.offer_1_50.offer_35.impl.CopyRandomListBySplitImpl;
+import old.offer.offer_1_50.offer_35.CopyRandomList;
+import old.offer.offer_1_50.offer_35.impl.CopyRandomListBySplitImpl;
 import org.junit.Test;
 
 /**

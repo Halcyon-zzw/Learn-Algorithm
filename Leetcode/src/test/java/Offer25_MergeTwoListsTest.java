@@ -1,6 +1,6 @@
 import mode.ListNode;
-import offer.offer_1_50.offer_25.MergeTwoLists;
-import offer.offer_1_50.offer_25.impl.MergeTwoListsByMergeOneImpl;
+import old.offer.offer_1_50.offer_25.MergeTwoLists;
+import old.offer.offer_1_50.offer_25.impl.MergeTwoListsByMergeOneImpl;
 import org.junit.Test;
 
 /**

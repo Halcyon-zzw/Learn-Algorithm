@@ -1,7 +1,7 @@
 package dynamic;
 
-import offer.offer_1_50.offer_46.TranslateNum;
-import offer.offer_1_50.offer_46.impl.TranslateNumByDynamicImpl;
+import old.offer.offer_1_50.offer_46.TranslateNum;
+import old.offer.offer_1_50.offer_46.impl.TranslateNumByDynamicImpl;
 import org.junit.Before;
 import org.junit.Test;
 

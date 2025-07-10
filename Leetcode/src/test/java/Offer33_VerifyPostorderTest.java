@@ -1,6 +1,6 @@
 import mode.TreeNode;
-import offer.offer_1_50.offer_33.VerifyPostorder;
-import offer.offer_1_50.offer_33.impl.VerifyPostorderByRecursionImpl;
+import old.offer.offer_1_50.offer_33.VerifyPostorder;
+import old.offer.offer_1_50.offer_33.impl.VerifyPostorderByRecursionImpl;
 import org.junit.Before;
 import org.junit.Test;
 

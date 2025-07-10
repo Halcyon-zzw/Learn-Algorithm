@@ -1,8 +1,6 @@
 package hot.链表;
 
 import mode.ListNode;
-import offer.offer_1_50.offer_24.ReverseListInterface;
-import offer.offer_1_50.offer_24.impl.ReverseListByRecursionImpl;
 
 import java.util.Stack;
 

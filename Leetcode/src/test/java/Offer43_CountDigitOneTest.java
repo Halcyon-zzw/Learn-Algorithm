@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_43.CountDigitOne;
-import offer.offer_1_50.offer_43.impl.CountDigitOneDynamicImpl;
+import old.offer.offer_1_50.offer_43.CountDigitOne;
+import old.offer.offer_1_50.offer_43.impl.CountDigitOneDynamicImpl;
 import org.junit.Test;
 
 /**

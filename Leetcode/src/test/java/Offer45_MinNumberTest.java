@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_45.MinNumber;
-import offer.offer_1_50.offer_45.impl.MinNumberImpl;
+import old.offer.offer_1_50.offer_45.MinNumber;
+import old.offer.offer_1_50.offer_45.impl.MinNumberImpl;
 import org.junit.Test;
 
 /**

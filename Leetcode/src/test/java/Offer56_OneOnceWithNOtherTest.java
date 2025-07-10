@@ -1,5 +1,4 @@
-import offer.offer_56.OneOnceWithNOther;
-import offer.offer_56.SingleNumbersOneOnceWithNImpl;
+import old.offer.offer_56.SingleNumbersOneOnceWithNImpl;
 import org.junit.Test;
 import utils.TestUtils;
 

@@ -1,6 +1,6 @@
 import mode.ListNode;
-import offer.offer_1_50.offer_24.ReverseListInterface;
-import offer.offer_1_50.offer_24.impl.ReverseListByRecursionImpl;
+import old.offer.offer_1_50.offer_24.ReverseListInterface;
+import old.offer.offer_1_50.offer_24.impl.ReverseListByRecursionImpl;
 import org.junit.Test;
 
 /**

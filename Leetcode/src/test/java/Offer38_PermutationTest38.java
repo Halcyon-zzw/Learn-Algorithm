@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_38.Permutation;
-import offer.offer_1_50.offer_38.impl.PermutationByRecursionImpl;
+import old.offer.offer_1_50.offer_38.Permutation;
+import old.offer.offer_1_50.offer_38.impl.PermutationByRecursionImpl;
 import org.junit.Test;
 
 /**

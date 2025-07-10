@@ -1,5 +1,5 @@
-import offer.offer_1_50.offer_13.MovingCount;
-import offer.offer_1_50.offer_13.impl.MovingCountByBfs;
+import old.offer.offer_1_50.offer_13.MovingCount;
+import old.offer.offer_1_50.offer_13.impl.MovingCountByBfs;
 import org.junit.Test;
 
 /**
